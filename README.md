@@ -5,12 +5,15 @@ I enjoy working on digital system design, Microprocessors, Analog electronics, V
 - 🔭 I’m currently working on Digital electronics and Verilog.  
 - 🌱 I’m currently learning Microprocessors and Analog integrated circuits.  
 - 👯 I’m looking to collaborate on Verilog projects and RISC V processors.  
-- 📫 How to reach me: akellakiran16@gmail.com  
+- 📫 Reach me at- akellakiran16@gmail.com  
 - ⚡ **Fun fact:** The first microprocessor, Intel 4004, had only 2,300 transistors — today’s processors have over 100 billion! To put it in perspective, you could fit the entire Intel 4004 die inside the space of a single transistor on a modern chip like Apple's M1 or AMD's Ryzen!  
 
 ---
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me/)
+
+
+
 
 ## Languages and Tools:
 <p align="left">
